@@ -1,9 +1,10 @@
 # 이동주 | Dongju Lee
 
-## Backend Lead Engineer | AI/LLM Systems | Event-Driven Architecture | Security Intelligence
+## Backend Lead Engineer | Event-Driven Architecture | AI/LLM Systems
 
-안녕하세요! 저는 대규모 데이터 처리, 실시간 스트리밍 시스템, AI 에이전트 설계 경험을 갖춘 백엔드 리드 엔지니어입니다.  
-기술적 의사결정과 시스템 아키텍처에 깊은 이해를 가지고 있으며, 비즈니스 가치 창출을 최우선으로 생각합니다.
+시스템을 흐름으로 봅니다. 데이터가 움직이고, 이벤트가 연결되고, 변화가 전파되는 과정을 설계합니다.
+
+기술이 어떻게 작동하는지 표면 아래를 들여다보고, 왜 그렇게 진화했는지 이해하려 합니다. 복잡한 문제는 그렇게 풀리니까요.
 
 ### 🔗 Links
 
@@ -20,7 +21,7 @@
 
 ### 🛠 Technical Skills
 
-**Programming Languages**: Python, Go, TypeScript
+**Programming Languages**: Python, Go
 
 **Backend & Frameworks**: FastAPI, Prefect, CrewAI, LangChain
 
@@ -46,9 +47,9 @@
 
 최신 기술 및 소프트웨어 엔지니어링에 대한 글을 [블로그](https://dongju93.github.io/blog/)에 공유합니다:
 
+- [TCP BBR: From v1 to v3 and its Implementation in Linux](https://dongju93.github.io/blog/post.html?id=tcp-bbr-deep-dive)
 - [A High-Level Overview of PostgreSQL's Architecture](https://dongju93.github.io/blog/post.html?id=postgresql-architecture-overview)
 - [Hidden Gems of Python API Frameworks: An In-Depth Analysis of Granian, Falcon and Tornado](https://dongju93.github.io/blog/post.html?id=python-api-frameworks-hidden-gems)
-- [Python 3.15 Preview and CPython Evolution: PEP 799, PEP 782, and the Era of Free-threading](https://dongju93.github.io/blog/post.html?id=python-3-15-pep-preview)
 
 ---
 
