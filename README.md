@@ -15,9 +15,10 @@
 
 ### 💼 Professional Experience
 
-- **Software Engineer**, Pinolike (2024.05 - 현재)
-- **Project Manager**,ClumL (2023.06 - 2024.04)
-- **Consultant**, DailySoft (2021.01 - 2023.06)
+- **Software Engineer**, Lotte Innovate (2026.02 - 현재)
+- **Software Engineer**, Pinolike (2024.05 - 2026.02)
+- **Project Manager**, ClumL (2023.06 - 2024.04)
+- **Consultant**, dailySoft (2021.01 - 2023.06)
 
 ### 🛠 Technical Skills
 
