@@ -24,7 +24,7 @@
 
 **Programming Languages**: Python, Go
 
-**Backend & Frameworks**: FastAPI, Prefect, CrewAI, LangChain
+**Backend & Frameworks**: FastAPI, Django, Prefect, CrewAI, LangChain
 
 **Data & Infrastructure**:
 
