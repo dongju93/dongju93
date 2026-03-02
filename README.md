@@ -1,6 +1,6 @@
 # 이동주 | Dongju Lee
 
-## Backend Lead Engineer | Event-Driven Architecture | AI/LLM Systems
+## Backend Engineer | System Architecture | AI Agent
 
 시스템을 흐름으로 봅니다. 데이터가 움직이고, 이벤트가 연결되고, 변화가 전파되는 과정을 설계합니다.
 
@@ -48,9 +48,9 @@
 
 최신 기술 및 소프트웨어 엔지니어링에 대한 글을 [블로그](https://dongju93.github.io/blog/)에 공유합니다:
 
+- [Peter Steinberger's Development Philosophy: Insights for Future Product Building](https://dongju93.github.io/blog/post.html?id=peter-steinberger-dev-philosophy)
 - [TCP BBR: From v1 to v3 and its Implementation in Linux](https://dongju93.github.io/blog/post.html?id=tcp-bbr-deep-dive)
 - [A High-Level Overview of PostgreSQL's Architecture](https://dongju93.github.io/blog/post.html?id=postgresql-architecture-overview)
-- [Hidden Gems of Python API Frameworks: An In-Depth Analysis of Granian, Falcon and Tornado](https://dongju93.github.io/blog/post.html?id=python-api-frameworks-hidden-gems)
 
 ---
 
