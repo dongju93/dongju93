@@ -4,7 +4,7 @@
 
 시스템을 흐름으로 봅니다. 데이터가 움직이고, 이벤트가 연결되고, 변화가 전파되는 과정을 설계합니다.
 
-기술이 어떻게 작동하는지 표면 아래를 들여다보고, 왜 그렇게 진화했는지 이해하려 합니다. 복잡한 문제는 그렇게 풀리니까요.
+기술의 작동 원리와 진화 과정을 깊이 탐구합니다. 복잡한 문제는 결국 그 이해에서 풀려나간다고 생각합니다.
 
 ### 🔗 Links
 
@@ -15,7 +15,7 @@
 
 ### 💼 Professional Experience
 
-- **Software Engineer**, Lotte Innovate (2026.02 - 현재)
+- **Platform Engineer**, Lotte Innovate (2026.02 - 현재)
 - **Software Engineer**, Pinolike (2024.05 - 2026.02)
 - **Project Manager**, ClumL (2023.06 - 2024.04)
 - **Consultant**, dailySoft (2021.01 - 2023.06)
