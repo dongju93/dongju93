@@ -24,7 +24,7 @@
 
 **Programming Languages**: Python, Go
 
-**Backend & Frameworks**: FastAPI, Django, Prefect, CrewAI, LangChain
+**Backend & Frameworks**: FastAPI, Django, Django REST Framework, Prefect, CrewAI, LangChain
 
 **Data & Infrastructure**:
 
@@ -48,9 +48,9 @@
 
 최신 기술 및 소프트웨어 엔지니어링에 대한 글을 [블로그](https://dongju93.github.io/blog/)에 공유합니다:
 
+- [Redis AI API Rate Limiting: Token Buckets and Fail-Open Strategy](https://dongju93.github.io/blog/post.html?id=redis-ai-api-rate-limiting)
 - [Peter Steinberger's Development Philosophy: Insights for Future Product Building](https://dongju93.github.io/blog/post.html?id=peter-steinberger-dev-philosophy)
 - [TCP BBR: From v1 to v3 and its Implementation in Linux](https://dongju93.github.io/blog/post.html?id=tcp-bbr-deep-dive)
-- [A High-Level Overview of PostgreSQL's Architecture](https://dongju93.github.io/blog/post.html?id=postgresql-architecture-overview)
 
 ---
 
