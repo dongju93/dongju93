@@ -48,9 +48,9 @@
 
 최신 기술 및 소프트웨어 엔지니어링에 대한 글을 [블로그](https://dongju93.github.io/blog/)에 공유합니다:
 
+- [Python Standard Library Hidden Gems: 10 Practical Tools Beyond pip install](https://dongju93.github.io/blog/post.html?id=python-stdlib-hidden-gems)
 - [Agentic AI Evals: From Benchmarks to Production Infrastructure](https://dongju93.github.io/blog/post.html?id=agentic-ai-evals)
 - [Redis AI API Rate Limiting: Token Buckets and Fail-Open Strategy](https://dongju93.github.io/blog/post.html?id=redis-ai-api-rate-limiting)
-- [Peter Steinberger's Development Philosophy: Insights for Future Product Building](https://dongju93.github.io/blog/post.html?id=peter-steinberger-dev-philosophy)
 
 ---
 
