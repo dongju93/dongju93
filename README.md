@@ -48,7 +48,7 @@
 
 최신 기술 및 소프트웨어 엔지니어링에 대한 글을 [블로그](https://dongju93.github.io/blog/)에 공유합니다:
 
-- [Python Standard Library Hidden Gems: 10 Practical Tools Beyond pip install](https://dongju93.github.io/blog/post.html?id=python-stdlib-hidden-gems)
+- [Correctness by Construction: Five Principles for Building Software That Prevents Errors](https://dongju93.github.io/blog/post.html?id=correctness-by-construction)
 - [Agentic AI Evals: From Benchmarks to Production Infrastructure](https://dongju93.github.io/blog/post.html?id=agentic-ai-evals)
 - [Redis AI API Rate Limiting: Token Buckets and Fail-Open Strategy](https://dongju93.github.io/blog/post.html?id=redis-ai-api-rate-limiting)
 
